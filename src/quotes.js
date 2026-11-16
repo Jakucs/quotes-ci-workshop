@@ -1,4 +1,4 @@
-const MAX_LENGTH = 80;
+var MAX_LENGTH = 80;
 let myName
 
 const SEED = [
