@@ -1,5 +1,4 @@
 const MAX_LENGTH = 80;
-let myName
 
 const SEED = [
   "It works on my machine.",
